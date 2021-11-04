@@ -1,4 +1,4 @@
-# Exercícios de prolog
+# Exercícios de prolog 
 
 <div align='center'>
   <img src="./assets/swi-prolog.svg">
